@@ -1,0 +1,25 @@
+{
+  "name": "expressmon",
+  "version": "1.0.0",
+  "description": "Monitor Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venom90/expressmon.git"
+  },
+  "keywords": [],
+  "author": "Aditya Rao (Venom90) <aditya.rao.in@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venom90/expressmon/issues"
+  },
+  "homepage": "https://github.com/venom90/expressmon#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.7"
+  }
+}
